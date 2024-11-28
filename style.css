@@ -1,0 +1,28 @@
+.introduction{
+    height: 100px;
+    width: auto;
+    background-color: blue;
+
+}
+
+.portfolio{
+
+    color: black;
+    font-size: medium;
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    justify-content: center;
+}
+
+.info{
+    color: white;
+    display: flex;
+    height: auto;
+    width: auto;
+    justify-content: space-between;
+
+}
+
+
+
